@@ -1,0 +1,1 @@
+This is meant for training the model. It contains 3 folders, first having Covid19 patient chest X-Rays, second having normal patient chest X-Rays, third having Viral Pneumonia patient chest X-Rays.
