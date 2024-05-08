@@ -6,4 +6,4 @@ This repository consists of various ML algorithms being implemented, such as:
 4. Implementing binary classification from scratch using kNN
 5. Implementing ANN using backpropagation on MNIST database with use of batch normalization, early stopping and dropout
 6. Implementing ANN using backpropagation on CIFAR 100 Multiclass classification database with use of batch normalization, early stopping and dropout
-7. Implementing ANN using bacth normalization and early stopping on Covid-19 Image Dataset
+7. Implementing ANN using batch normalization and early stopping on Covid-19 Image Dataset
