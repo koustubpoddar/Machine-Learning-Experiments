@@ -9,3 +9,4 @@ This repository consists of various ML algorithms and neural networks being impl
 7. Implementing ANN using batch normalization and early stopping on Covid-19 Image Dataset
 8. Implementing CNN using backpropagation on MNIST database
 9. Implementing Transfer Learning using VGG 16
+10. Implementing a basic RNN
