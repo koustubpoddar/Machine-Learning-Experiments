@@ -7,4 +7,5 @@ This repository consists of various ML algorithms being implemented, such as:
 5. Implementing ANN using backpropagation on MNIST database with use of batch normalization, early stopping and dropout
 6. Implementing ANN using backpropagation on CIFAR 100 Multiclass classification database with use of batch normalization, early stopping and dropout
 7. Implementing ANN using batch normalization and early stopping on Covid-19 Image Dataset
-8. Implement CNN using backpropagation on MNIST database
+8. Implementing CNN using backpropagation on MNIST database
+9. Implementing Transfer Learning using VGG 16
